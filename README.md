@@ -17,3 +17,13 @@ Game | Music name
 
 Game | Music name
 :---: | :---:
+
+# 📼 """Lo-Fi"""
+
+Game | Music name
+:---: | :---:
+
+# 😱 Tension
+
+Game | Music name
+:---: | :---:
