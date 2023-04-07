@@ -1,19 +1,19 @@
-# Happy
+# 😁 Happy
 
 Game | Music name
 :---: | :---:
 
-# Motivated
+# 😠 Motivated
 
 Game | Music name
 :---: | :---:
 
-# Depression
+# 😭 Depression
 
 Game | Music name
 :---: | :---:
 
-# Funny
+# 🤣 Funny
 
 Game | Music name
 :---: | :---:
