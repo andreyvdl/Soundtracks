@@ -1,23 +1,19 @@
-# 🎮 SORT BY CONSOLE BITS
+# Happy
 
-## 8-Bit
+Game | Music name
+:---: | :---:
 
-## 16-bit
+# Motivated
 
-## 32-bits
+Game | Music name
+:---: | :---:
 
-## 64-bits
+# Depression
 
-## +65-bits<sup>*</sup>
+Game | Music name
+:---: | :---:
 
-<sub>* consoles stop counting bits after de Playstation 1 and Nintendo 64</sub>
+# Funny
 
-# 🥲 SORT BY EMOTIONS
-
-## Happy
-
-## Motivated
-
-## Depression
-
-## Funny
+Game | Music name
+:---: | :---:
