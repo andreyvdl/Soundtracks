@@ -32,4 +32,5 @@ Game  | Music name
 Game                             | Music name
                                  |
 Castlevania Sympony of the Night | Wood Carving Partita
+Castlevania Sympony of the Night | Festival of Servants
 
