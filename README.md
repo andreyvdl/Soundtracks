@@ -5,6 +5,7 @@ Game                              | Music name
 Castlevania Symphony of the Night | Wandering Ghosts
 Castlevania Symphony of the Night | Vampire Killer Techno-Goth
 Castlevania Symphony of the Night | Beginning Jazz
+Castlevania Symphony of the Night | Bloody Tears Hard Rock Version B
 
 
 # 😠 Motivated
@@ -17,6 +18,7 @@ Castlevania Symphony of the Night | Marble Gallery
 Castlevania Symphony of the Night | The Tragic Prince
 Castlevania Symphony of the Night | Vampire Killer Rock
 Castlevania Symphony of the Night | Beginning Techno-Goth
+Castlevania Symphony of the Night | Bloody Tears Hard Rock Version A
 
 # 😭 Depression
 
