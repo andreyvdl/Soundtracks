@@ -4,6 +4,7 @@ Game                              | Music name
 ---                               | ---
 Castlevania Symphony of the Night | Wandering Ghosts
 Castlevania Symphony of the Night | Vampire Killer Techno-Goth
+Castlevania Symphony of the Night | Beginning Jazz
 
 
 # 😠 Motivated
