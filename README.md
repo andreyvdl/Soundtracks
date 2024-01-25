@@ -1,5 +1,9 @@
 # 😐 Neutral
 
+Game | Music name
+--- | ---
+Castlevania Symphony of the Night | Wandering Ghosts
+
 <table>
 	<tr>
 		<th>Game</th>
