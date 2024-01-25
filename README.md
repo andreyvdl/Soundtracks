@@ -7,10 +7,10 @@ Game  | Music name
 # 😠 Motivated
 
 <table>
-	<th>
-		<td>Game</td>
-		<td>Music name</td>
-	</th>
+	<tr>
+		<th>Game</th>
+		<th>Music name</th>
+	</tr>
 	<tr>
 		<td>Castlevania Symphony of the Night</td>
 		<td>Prologue</td>
