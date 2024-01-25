@@ -3,6 +3,7 @@
 Game                              | Music name
 ---                               | ---
 Castlevania Symphony of the Night | Wandering Ghosts
+Castlevania Symphony of the Night | Vampire Killer Techno-Goth
 
 
 # 😠 Motivated
@@ -13,6 +14,7 @@ Castlevania Symphony of the Night | Prologue
 Castlevania Symphony of the Night | Dracula's Castle
 Castlevania Symphony of the Night | Marble Gallery
 Castlevania Symphony of the Night | The Tragic Prince
+Castlevania Symphony of the Night | Vampire Killer Rock
 
 # 😭 Depression
 
