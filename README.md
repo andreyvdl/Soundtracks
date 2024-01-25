@@ -1,42 +1,34 @@
 # 😐 Neutral
 
-Game | Music name
+Game  | Music name
 :---: | :---:
 
 
 # 😠 Motivated
 
-Game | Music name
-:---: | :---:
-Castlevania 64 | Third Struggle - Dance of Illusions
-Pokemon Stadium | P97 + 98 Cup Battle 4-6
-Pokemon Stadium | Poke Cup Final
-Pokemon Stadium | Gym Leader Castle (Preliminary Battles)
+Game                             | Music name
+                                 |
+Castlevania Sympony of the Night | Prologue
+Castlevania Sympony of the Night | Dracula's Castle
+Castlevania Sympony of the Night | Marble Galley
 
 # 😭 Depression
 
-Game | Music name
+Game  | Music name
 :---: | :---:
 
 # 🤣 Funny
 
-Game | Music name
+Game  | Music name
 :---: | :---:
 
 # 📼 """Lo-Fi"""
 
-Game | Music name
+Game  | Music name
 :---: | :---:
-Castlevania 64 | Renon
-Castlevania 64 | Underground Tunnel - Invisible Sorrow
-Pokemon Stadium | Map
-Pokemon Stadium | Professor Oak's Lab
-Pokemon Stadium | Credits (Round 2)
 
 # 😱 Tension
 
-Game | Music name
+Game  | Music name
 :---: | :---:
-Pokemon Stadium | P97 + 98 Cup Semifinal
-Pokemon Stadium | Pika Cup Semifinal
-Pokemon Stadium | Gym Leader Castle (Elite Four)
+
