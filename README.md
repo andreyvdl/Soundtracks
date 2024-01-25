@@ -1,6 +1,6 @@
 # 😐 Neutral
 
-Game | Music name
+Game                              | Music name
 ---                               | ---
 Castlevania Symphony of the Night | Wandering Ghosts
 
