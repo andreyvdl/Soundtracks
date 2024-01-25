@@ -44,8 +44,16 @@ Game  | Music name
 
 # 🤣 Funny
 
-Game  | Music name
-:---: | :---:
+<table>
+	<tr>
+		<th>Game</th>
+		<th>Music name</th>
+	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>The Master Librarian</td>
+	</tr>
+</table>
 
 # 📼 """Lo-Fi"""
 
