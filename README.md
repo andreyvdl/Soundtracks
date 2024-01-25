@@ -29,6 +29,7 @@ Game  | Music name
 
 # 😱 Tension
 
-Game  | Music name
-:---: | :---:
+Game                             | Music name
+                                 |
+Castlevania Sympony of the Night | Wood Carving Partita
 
