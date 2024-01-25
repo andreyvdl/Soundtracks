@@ -50,6 +50,10 @@ Game  | Music name
 		<td>Castlevania Symphony of the Night</td>
 		<td>Lost Painting</td>
 	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Dance of Pales</td>
+	</tr>
 </table>
 
 # 😱 Tension
