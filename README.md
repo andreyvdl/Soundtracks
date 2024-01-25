@@ -6,8 +6,12 @@ Game  | Music name
 
 # 😠 Motivated
 
-Game																| Music name
-																---	|	---
+<table>
+	<th>
+		<td>Game</td>
+		<td>Music name</td>
+	</th>
+</table>
 Castlevania Sympony of the Night		| Prologue
 Castlevania Sympony of the Night		| Dracula's Castle
 Castlevania Sympony of the Night		| Marble Galley
