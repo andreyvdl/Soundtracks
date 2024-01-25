@@ -6,11 +6,11 @@ Game  | Music name
 
 # 😠 Motivated
 
-Game                                | Music name
-                                    |
-Castlevania Sympony of the Night    | Prologue
-Castlevania Sympony of the Night    | Dracula's Castle
-Castlevania Sympony of the Night    | Marble Galley
+Game																| Music name
+																		|
+Castlevania Sympony of the Night		| Prologue
+Castlevania Sympony of the Night		| Dracula's Castle
+Castlevania Sympony of the Night		| Marble Galley
 
 # 😭 Depression
 
