@@ -24,8 +24,9 @@ Game  | Music name
 
 # 📼 """Lo-Fi"""
 
-Game  | Music name
-:---: | :---:
+Game                             | Music name
+                                 |
+Castlevania Sympony of the Night | Crystal Teardrops
 
 # 😱 Tension
 
