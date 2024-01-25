@@ -17,55 +17,25 @@ Castlevania Symphony of the Night | The Tragic Prince
 # 😭 Depression
 
 Game  | Music name
-:---: | :---:
+---   | ---
 
 # 🤣 Funny
 
-<table>
-	<tr>
-		<th>Game</th>
-		<th>Music name</th>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>The Master Librarian</td>
-	</tr>
-</table>
+Game                              | Music name
+---                               | ---
+Castlevania Symphony of the Night | The Master Librarian
 
 # 📼 """Lo-Fi"""
 
-<table>
-	<tr>
-		<th>Game</th>
-		<th>Music name</th>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Crystal Teardrops</td>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Lost Painting</td>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Dance of Pales</td>
-	</tr>
-</table>
+Game                              | Music name
+---                               | ---
+Castlevania Symphony of the Night | Crystal Teardrops
+Castlevania Symphony of the Night | Lost Paiting
+Castlevania Symphony of the Night | Dance of Pales
 
 # 😱 Tension
 
-<table>
-	<tr>
-		<th>Game</th>
-		<th>Music name</th>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Wood Carving Partita</td>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Festival of Servants</td>
-	</tr>
-</table>
+Game                              | Music name
+---                               | ---
+Castlevania Symphony of the Night | Wood Carving Partita
+Castlevania Symphony of the Night | Festival of Servants
