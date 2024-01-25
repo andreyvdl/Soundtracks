@@ -15,6 +15,7 @@ Castlevania Symphony of the Night | Dracula's Castle
 Castlevania Symphony of the Night | Marble Gallery
 Castlevania Symphony of the Night | The Tragic Prince
 Castlevania Symphony of the Night | Vampire Killer Rock
+Castlevania Symphony of the Night | Beginning Techno-Goth
 
 # 😭 Depression
 
