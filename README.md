@@ -11,10 +11,19 @@ Game  | Music name
 		<td>Game</td>
 		<td>Music name</td>
 	</th>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Prologue</td>
+	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Dracula's Castle</td>
+	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Marble Gallery</td>
+	</tr>
 </table>
-Castlevania Sympony of the Night		| Prologue
-Castlevania Sympony of the Night		| Dracula's Castle
-Castlevania Sympony of the Night		| Marble Galley
 
 # 😭 Depression
 
