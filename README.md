@@ -4,42 +4,15 @@ Game                              | Music name
 ---                               | ---
 Castlevania Symphony of the Night | Wandering Ghosts
 
-<table>
-	<tr>
-		<th>Game</th>
-		<th>Music name</th>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Wandering Ghosts</td>
-	</tr>
-</table>
-
 
 # 😠 Motivated
 
-<table>
-	<tr>
-		<th>Game</th>
-		<th>Music name</th>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Prologue</td>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Dracula's Castle</td>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>Marble Gallery</td>
-	</tr>
-	<tr>
-		<td>Castlevania Symphony of the Night</td>
-		<td>The Tragic Prince</td>
-	</tr>
-</table>
+Game                              | Music name
+---                               | ---
+Castlevania Symphony of the Night | Prologue
+Castlevania Symphony of the Night | Dracula's Castle
+Castlevania Symphony of the Night | Marble Gallery
+Castlevania Symphony of the Night | The Tragic Prince
 
 # 😭 Depression
 
