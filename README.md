@@ -33,7 +33,7 @@
 	</tr>
 	<tr>
 		<td>Castlevania Symphony of the Night</td>
-		<td></td>
+		<td>The Tragic Prince</td>
 	</tr>
 </table>
 
