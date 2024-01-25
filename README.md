@@ -46,6 +46,10 @@ Game  | Music name
 		<td>Castlevania Symphony of the Night</td>
 		<td>Crystal Teardrops</td>
 	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Lost Painting</td>
+	</tr>
 </table>
 
 # 😱 Tension
