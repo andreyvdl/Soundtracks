@@ -1,7 +1,15 @@
 # 😐 Neutral
 
-Game  | Music name
-:---: | :---:
+<table>
+	<tr>
+		<th>Game</th>
+		<th>Music name</th>
+	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Wandering Ghosts</td>
+	</tr>
+</table>
 
 
 # 😠 Motivated
@@ -22,6 +30,10 @@ Game  | Music name
 	<tr>
 		<td>Castlevania Symphony of the Night</td>
 		<td>Marble Gallery</td>
+	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td></td>
 	</tr>
 </table>
 
