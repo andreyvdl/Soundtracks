@@ -37,14 +37,30 @@ Game  | Music name
 
 # 📼 """Lo-Fi"""
 
-Game                             | Music name
-                                 |
-Castlevania Sympony of the Night | Crystal Teardrops
+<table>
+	<tr>
+		<th>Game</th>
+		<th>Music name</th>
+	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Crystal Teardrops</td>
+	</tr>
+</table>
 
 # 😱 Tension
 
-Game                             | Music name
-                                 |
-Castlevania Sympony of the Night | Wood Carving Partita
-Castlevania Sympony of the Night | Festival of Servants
-
+<table>
+	<tr>
+		<th>Game</th>
+		<th>Music name</th>
+	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Wood Carving Partita</td>
+	</tr>
+	<tr>
+		<td>Castlevania Symphony of the Night</td>
+		<td>Festival of Servants</td>
+	</tr>
+</table>
